@@ -1,8 +1,8 @@
-SuperShoes
-Accueil
-À propos
-Services
-Contact
+<h1>SuperShoes</h1>
+<li><a href="#">Accueil</a></li>
+<li><a href="#">À propos</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="#">Contact</a></li>
 
 Ici, on répare vos chaussures
 pour que vous repartiez du bon pied
